@@ -1,7 +1,7 @@
 # EX9 Preprocessing on Twitter Data using Rapidminer
-### Name       : Sithi Hajara I
-### Reg Number : 212221230102
-### Date       : 15.04.2024 
+### Name       : MOHAMED ASEEM P
+### Reg Number : 212221230063
+### Date       : 16.04.2024 
 ## AIM: 
 To implement preprocessing technique on Twitter Data using Rapidminer
 ## Description: 
